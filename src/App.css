@@ -1,0 +1,13 @@
+/* body{
+    min-height: 100%;
+    position: relative;
+} */
+
+/* .footer{ */
+    /* recordemos que absolute pierde el espacio que ocupa y debe tener un padre relative */
+    /* position: absolute; 
+    bottom: 0;
+    width: 100%;
+
+    
+} */

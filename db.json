@@ -1,0 +1,40 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "Café con leche",
+      "precioProducto": "100",
+      "categoria": "bebida-caliente",
+      "id": 1
+    },
+    {
+      "nombreProducto": "medialuna x unidad",
+      "precioProducto": "15",
+      "categoria": "dulce",
+      "id": 2
+    },
+    {
+      "nombreProducto": "Tostado mixto",
+      "precioProducto": "155",
+      "categoria": "sandwich",
+      "id": 3
+    },
+    {
+      "nombreProducto": "Tortilla x unidad",
+      "precioProducto": "10",
+      "categoria": "salado",
+      "id": 4
+    },
+    {
+      "nombreProducto": "Muffin de chocolate",
+      "precioProducto": "70",
+      "categoria": "dulce",
+      "id": 5
+    },
+    {
+      "nombreProducto": "Te (a eleccion)",
+      "precioProducto": "50",
+      "categoria": "bebida-caliente",
+      "id": 6
+    }
+  ]
+}
