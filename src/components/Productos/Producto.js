@@ -8,6 +8,7 @@ import { faTrash, faEdit } from '@fortawesome/free-solid-svg-icons'
 
 const Producto = (props) => {
   const eliminarProducto = (_id) => {
+    // el _id es un parametro, podria llamarse pepito si quisiera
     console.log(_id);
 
     Swal.fire({
